@@ -1,0 +1,52 @@
+
+body {
+  background-color: #87ceeb;
+  padding: 0;
+  margin: 0;
+
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  
+
+  ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  color: white;
+  background-color: #AFFEEE;
+  overflow: hidden;
+
+  }
+  li {
+    float: left;
+    padding: 5px 5px 5px 5px;
+  }
+
+  li a{
+  font-family: sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  }
+
+  li a:hover{
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  }
+table tr td{
+    border: 1px solid black;
+    padding: 5px 15px;
+    text-align: center;
+  }
+
+ .ubah{
+  background-color: blue;
+}
+
+/*#4CAF50*/
